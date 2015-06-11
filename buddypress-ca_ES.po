@@ -677,7 +677,7 @@ msgstr ""
 
 #: bp-activity/bp-activity-filters.php:380
 msgid "[Read more]"
-msgstr ""
+msgstr "[Llegir més]"
 
 #: bp-activity/bp-activity-filters.php:385
 msgid "&hellip;"
@@ -937,7 +937,7 @@ msgstr "No"
 
 #: bp-activity/bp-activity-screens.php:280
 msgid "A member mentions you in an update using \"@%s\""
-msgstr ""
+msgstr "Un usuari et menciona en una actualització utilitzant \"@%s\""
 
 #: bp-activity/bp-activity-screens.php:288
 msgid "A member replies to an update or comment you've posted"
@@ -1160,9 +1160,8 @@ msgstr "Foto del perfil (Avatar)"
 #: bp-themes/bp-default/groups/single/group-header.php:42
 #: tests/testcases/members/template.php:112
 #: tests/testcases/members/template.php:127
-#, fuzzy
 msgid "active %s"
-msgstr "actiu fa %s"
+msgstr "actiu %s"
 
 #: bp-blogs/bp-blogs-template.php:668
 msgid "Latest Post: %s"
@@ -2922,14 +2921,12 @@ msgid "Un-stick Topic"
 msgstr "Enviar Tema"
 
 #: bp-forums/bp-forums-template.php:1300
-#, fuzzy
 msgid "Open Topic"
-msgstr "Tema"
+msgstr "Obrir tema"
 
 #: bp-forums/bp-forums-template.php:1302
-#, fuzzy
 msgid "Close Topic"
-msgstr "Enviar Tema"
+msgstr "Tancar Tema"
 
 #: bp-forums/bp-forums-template.php:1304
 #, fuzzy
@@ -3000,9 +2997,8 @@ msgid ""
 msgstr ""
 
 #: bp-forums/deprecated/1.6.php:74 bp-forums/deprecated/1.6.php:216
-#, fuzzy
 msgid "Features"
-msgstr "Blogs destacats"
+msgstr "Destacats"
 
 #: bp-forums/deprecated/1.6.php:76 bp-forums/deprecated/1.6.php:218
 #, fuzzy
@@ -3217,9 +3213,8 @@ msgid "%1$s and %2$s are now friends"
 msgstr "%s i %s són ara amics"
 
 #: bp-friends/bp-friends-loader.php:92
-#, fuzzy
 msgid "Search Friends..."
-msgstr "Selecciona Amics"
+msgstr "Cercar amics..."
 
 #: bp-friends/bp-friends-loader.php:119
 msgid "Friends <span class=\"%s\">%s</span>"
@@ -3231,9 +3226,8 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/members/single/activity.php:35
 #: bp-themes/bp-default/activity/index.php:124
 #: bp-themes/bp-default/members/single/activity.php:35
-#, fuzzy
 msgid "Friendships"
-msgstr "Amics"
+msgstr "Amistats"
 
 #: bp-friends/bp-friends-loader.php:150 bp-groups/bp-groups-template.php:1524
 msgid "Requests"
@@ -5148,9 +5142,8 @@ msgstr ""
 #: bp-members/bp-members-admin.php:931
 #: bp-templates/bp-legacy/buddypress/members/single/notifications/notifications-loop.php:7
 #: bp-themes/bp-default/members/single/notifications/notifications-loop.php:7
-#, fuzzy
 msgid "Actions"
-msgstr "Acció"
+msgstr "Accions"
 
 #: bp-members/bp-members-admin.php:933
 msgid ""
@@ -5597,14 +5590,12 @@ msgid "%s Recipients"
 msgstr "Safates"
 
 #: bp-messages/bp-messages-functions.php:53
-#, fuzzy
 msgid "Re: %s"
-msgstr "Re:"
+msgstr "Re: %s"
 
 #: bp-messages/bp-messages-functions.php:61
-#, fuzzy
 msgid "No Subject"
-msgstr "Títol"
+msgstr "Sense títol"
 
 #: bp-messages/bp-messages-loader.php:33
 #, fuzzy
@@ -5612,9 +5603,8 @@ msgid "Private Messages"
 msgstr "Veure Missatges"
 
 #: bp-messages/bp-messages-loader.php:91
-#, fuzzy
 msgid "Search Messages..."
-msgstr "Missatges Enviats"
+msgstr "Cercar Missatges..."
 
 #: bp-messages/bp-messages-loader.php:109
 msgid "Messages <span class=\"%s\">%s</span>"
@@ -5634,9 +5624,8 @@ msgstr "Entrada"
 
 #: bp-messages/bp-messages-loader.php:149
 #: bp-messages/bp-messages-loader.php:226
-#, fuzzy
 msgid "Sent"
-msgstr "Enviar:"
+msgstr "Enviats"
 
 #: bp-messages/bp-messages-loader.php:159
 #: bp-messages/bp-messages-loader.php:234
@@ -5825,9 +5814,8 @@ msgid "Send a private message to this user."
 msgstr ""
 
 #: bp-messages/bp-messages-template.php:755
-#, fuzzy
 msgid "Private Message"
-msgstr "Veure Missatges"
+msgstr "Missatge privat"
 
 #: bp-messages/bp-messages-template.php:938
 #, fuzzy
@@ -5837,9 +5825,8 @@ msgstr "Safates"
 #: bp-messages/bp-messages-template.php:1047
 #: bp-templates/bp-legacy/buddypress-functions.php:1279
 #: bp-themes/bp-default/_inc/ajax.php:833
-#, fuzzy
 msgid "Sent %s"
-msgstr "Enviar:"
+msgstr "Enviat %s"
 
 #: bp-messages/bp-messages-widgets.php:34
 #, fuzzy
@@ -5877,18 +5864,16 @@ msgid "There was a problem deleting that notification."
 msgstr "Va haver un problema esborrant la notificació"
 
 #: bp-notifications/bp-notifications-adminbar.php:54
-#, fuzzy
 msgid "No new notifications"
-msgstr "No tens notificacions"
+msgstr "No hi han notificacions noves"
 
 #: bp-notifications/bp-notifications-buddybar.php:49
 msgid "No new notifications."
 msgstr "No tens notificacions"
 
 #: bp-notifications/bp-notifications-loader.php:86
-#, fuzzy
 msgid "Search Notifications..."
-msgstr "Notificacions"
+msgstr "Cerca Notificacions..."
 
 #: bp-notifications/bp-notifications-loader.php:111
 msgid "Notifications <span class=\"%s\">%s</span>"
@@ -5913,9 +5898,8 @@ msgid "&rarr;"
 msgstr ""
 
 #: bp-notifications/bp-notifications-template.php:664
-#, fuzzy
 msgid "Date not found"
-msgstr "No Trobat"
+msgstr "Data no trobada"
 
 #: bp-notifications/bp-notifications-template.php:895
 msgid "Viewing %1$s to %2$s (of %3$s notification)"
@@ -5924,9 +5908,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: bp-notifications/bp-notifications-template.php:943
-#, fuzzy
 msgid "Newest First"
-msgstr "Nous"
+msgstr "Nous primer"
 
 #: bp-notifications/bp-notifications-template.php:944
 msgid "Oldest First"
@@ -5988,9 +5971,8 @@ msgid "This user's notification settings have been saved."
 msgstr ""
 
 #: bp-settings/bp-settings-actions.php:346
-#, fuzzy
 msgid "%s was successfully deleted."
-msgstr "Missatge del fil, esborrat correctament."
+msgstr "%s esborrat correctament."
 
 #: bp-settings/bp-settings-loader.php:94
 #: bp-settings/bp-settings-loader.php:171
@@ -5999,9 +5981,8 @@ msgstr "General"
 
 #: bp-settings/bp-settings-loader.php:118
 #: bp-themes/bp-default/members/single/settings/capabilities.php:49
-#, fuzzy
 msgid "Capabilities"
-msgstr "Capacitats Addicionals"
+msgstr "Capacitats"
 
 #: bp-templates/bp-legacy/buddypress/activity/activity-loop.php:28
 #: bp-themes/bp-default/activity/activity-loop.php:41
@@ -6337,9 +6318,8 @@ msgstr ""
 #: bp-themes/bp-default/forums/index.php:63
 #: bp-themes/bp-default/groups/single/forum.php:39
 #: bp-themes/bp-default/members/single/forums.php:21
-#, fuzzy
 msgid "Most Posts"
-msgstr "Últim Post"
+msgstr "Més Articles"
 
 #: bp-templates/bp-legacy/buddypress/forums/index.php:46
 #: bp-templates/bp-legacy/buddypress/groups/single/forum.php:40
@@ -6347,15 +6327,13 @@ msgstr "Últim Post"
 #: bp-themes/bp-default/forums/index.php:64
 #: bp-themes/bp-default/groups/single/forum.php:40
 #: bp-themes/bp-default/members/single/forums.php:22
-#, fuzzy
 msgid "Unreplied"
-msgstr "No Llegit"
+msgstr "Sense resposta"
 
 #: bp-templates/bp-legacy/buddypress/forums/index.php:82
 #: bp-themes/bp-default/forums/index.php:100
-#, fuzzy
 msgid "Create New Topic:"
-msgstr "Nou Tema:"
+msgstr "Crear nou tema:"
 
 #: bp-templates/bp-legacy/buddypress/forums/index.php:89
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/edit.php:50
@@ -6594,9 +6572,8 @@ msgstr "Avatar"
 #: bp-themes/bp-default/groups/create.php:169
 #: bp-themes/bp-default/groups/single/admin.php:154
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:36
-#, fuzzy
 msgid "Avatar preview"
-msgstr "Visualització selecció"
+msgstr "Previsualització avatar"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:165
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:157
@@ -6706,9 +6683,8 @@ msgstr "Avatar d'usuari per defecte"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:149
 #: bp-themes/bp-default/groups/single/admin.php:149
-#, fuzzy
 msgid "Crop Avatar"
-msgstr "Avatar del Grup"
+msgstr "Retallar Avatar"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:260
 #: bp-themes/bp-default/groups/single/admin.php:260
@@ -6787,9 +6763,8 @@ msgstr "Directori de Grups"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/edit.php:25
 #: bp-themes/bp-default/groups/single/forum/edit.php:25
-#, fuzzy
 msgid "Edit:"
-msgstr "Editar"
+msgstr "Actualitzar:"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/edit.php:87
 #: bp-themes/bp-default/groups/single/forum/edit.php:87
@@ -6805,9 +6780,8 @@ msgstr "Deixa una resposta"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/topic.php:32
 #: bp-themes/bp-default/groups/single/forum/topic.php:32
-#, fuzzy
 msgid "Topic tags:"
-msgstr "Temes"
+msgstr "Etiquetes del tema:"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/topic.php:81
 #: bp-themes/bp-default/groups/single/forum/topic.php:81
@@ -6852,15 +6826,13 @@ msgstr "Nou Tema:"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/group-header.php:11
 #: bp-themes/bp-default/groups/single/group-header.php:11
-#, fuzzy
 msgid "Group Admins"
-msgstr "Administrador de Grup"
+msgstr "Administradors de Grup"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/group-header.php:20
 #: bp-themes/bp-default/groups/single/group-header.php:20
-#, fuzzy
 msgid "Group Mods"
-msgstr "Grup Mod"
+msgstr "Moderadors de Grup"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/request-membership.php:4
 #: bp-themes/bp-default/groups/single/request-membership.php:4
@@ -6928,9 +6900,8 @@ msgstr "Clau d'Activació:"
 #: bp-templates/bp-legacy/buddypress/members/single/friends.php:23
 #: bp-themes/bp-default/members/index.php:58
 #: bp-themes/bp-default/members/single/friends.php:23
-#, fuzzy
 msgid "Newest Registered"
-msgstr "No requerit"
+msgstr "Nous registrats"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:13
 #: bp-themes/bp-default/registration/register.php:16
@@ -6992,25 +6963,21 @@ msgstr "(Requerit)"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:36
 #: bp-themes/bp-default/registration/register.php:41
-#, fuzzy
 msgid "Email Address"
-msgstr "Adreça&nbsp;Email:"
+msgstr "Adreça d'email"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:40
 #: bp-themes/bp-default/registration/register.php:45
-#, fuzzy
 msgid "Choose a Password"
-msgstr "Nova Clau"
+msgstr "Tria una contrasenya"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:44
 #: bp-themes/bp-default/registration/register.php:49
-#, fuzzy
 msgid "Confirm Password"
-msgstr "Clau"
+msgstr "Confirma la contrasenya"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:62
 #: bp-themes/bp-default/registration/register.php:67
-#, fuzzy
 msgid "Profile Details"
 msgstr "Detalls del teu perfil"
 
@@ -7054,15 +7021,13 @@ msgstr "Sí, vull deixar aquest grup"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:132
 #: bp-themes/bp-default/registration/register.php:216
-#, fuzzy
 msgid "Blog URL"
-msgstr "Blog"
+msgstr "URL del blog"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:141
 #: bp-themes/bp-default/registration/register.php:225
-#, fuzzy
 msgid "Site Title"
-msgstr "Títol del camp"
+msgstr "Títol del lloc"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:164
 #: bp-themes/bp-default/registration/register.php:248
@@ -7092,11 +7057,10 @@ msgstr "No tens peticions d'amistat pendents."
 
 #: bp-templates/bp-legacy/buddypress/members/single/groups/invites.php:14
 #: bp-themes/bp-default/members/single/groups/invites.php:14
-#, fuzzy
 msgid "1 member"
 msgid_plural "%d members"
-msgstr[0] "usuari"
-msgstr[1] "usuari"
+msgstr[0] "1 usuari"
+msgstr[1] "%d usuaris"
 
 #: bp-templates/bp-legacy/buddypress/members/single/groups/invites.php:37
 #: bp-themes/bp-default/members/single/groups/invites.php:37
@@ -7205,9 +7169,8 @@ msgstr "No tens notificacions"
 
 #: bp-templates/bp-legacy/buddypress/members/single/notifications/feedback-no-notifications.php:19
 #: bp-themes/bp-default/members/single/notifications/feedback-no-notifications.php:19
-#, fuzzy
 msgid "You have no notifications."
-msgstr "No tens notificacions"
+msgstr "No tens notificacions."
 
 #: bp-templates/bp-legacy/buddypress/members/single/notifications/feedback-no-notifications.php:23
 #: bp-themes/bp-default/members/single/notifications/feedback-no-notifications.php:23
@@ -7217,9 +7180,8 @@ msgstr "No tens notificacions"
 
 #: bp-templates/bp-legacy/buddypress/members/single/notifications/notifications-loop.php:5
 #: bp-themes/bp-default/members/single/notifications/notifications-loop.php:5
-#, fuzzy
 msgid "Notification"
-msgstr "Notificacions"
+msgstr "Notificació"
 
 #: bp-templates/bp-legacy/buddypress/members/single/notifications/notifications-loop.php:6
 #: bp-themes/bp-default/members/single/notifications/notifications-loop.php:6
@@ -7261,9 +7223,8 @@ msgstr ""
 
 #: bp-templates/bp-legacy/buddypress/members/single/profile/change-avatar.php:24
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:24
-#, fuzzy
 msgid "Delete My Avatar"
-msgstr "Esborrar el meu compte"
+msgstr "Esborrar el meu avatar"
 
 #: bp-templates/bp-legacy/buddypress/members/single/profile/change-avatar.php:31
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:31
@@ -7289,15 +7250,13 @@ msgstr "Editant '%s'"
 #: bp-templates/bp-legacy/buddypress/members/single/profile/edit.php:33
 #: bp-themes/bp-default/members/single/profile/edit.php:120
 #: bp-xprofile/bp-xprofile-admin.php:726
-#, fuzzy
 msgid "Change"
-msgstr "Desar Canvis"
+msgstr "Canviar"
 
 #: bp-templates/bp-legacy/buddypress/members/single/profile/profile-wp.php:8
 #: bp-themes/bp-default/members/single/profile/profile-wp.php:8
-#, fuzzy
 msgid "%s's Profile"
-msgstr "Perfil"
+msgstr "Perfil de %s"
 
 #: bp-templates/bp-legacy/buddypress/members/single/settings/capabilities.php:9
 #: bp-themes/bp-default/members/single/settings/capabilities.php:57
@@ -7321,9 +7280,8 @@ msgstr ""
 
 #: bp-templates/bp-legacy/buddypress/members/single/settings/delete-account.php:23
 #: bp-themes/bp-default/members/single/settings/delete-account.php:72
-#, fuzzy
 msgid "I understand the consequences."
-msgstr "Jo entenc les conseqüències d'Esborrar el meu compte."
+msgstr "Entenc les conseqüències."
 
 #: bp-templates/bp-legacy/buddypress/members/single/settings/general.php:7
 #: bp-themes/bp-default/members/single/settings/general.php:57
@@ -7371,9 +7329,8 @@ msgstr "Enviar Notificació per Email quan:"
 
 #: bp-templates/bp-legacy/buddypress/members/single/settings/profile.php:15
 #: bp-themes/bp-default/members/single/settings/profile.php:65
-#, fuzzy
 msgid "Visibility"
-msgstr "Visitar"
+msgstr "Visibilitat"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:63
 #, fuzzy
@@ -7382,15 +7339,13 @@ msgstr "Buddypress"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:236
 #: bp-themes/bp-default/functions.php:159
-#, fuzzy
 msgid "Accepted"
-msgstr "Acceptar"
+msgstr "Acceptat"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:238
 #: bp-themes/bp-default/functions.php:164
-#, fuzzy
 msgid "comments"
-msgstr "Comentaris"
+msgstr "comentaris"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:239
 msgid "Are you sure you want to leave this group?"
@@ -7404,9 +7359,8 @@ msgstr "Els meus Amics"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:242
 #: bp-themes/bp-default/functions.php:160
-#, fuzzy
 msgid "Rejected"
-msgstr "Rebutjar"
+msgstr "Rebutjat"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:244
 #: bp-themes/bp-default/functions.php:163
@@ -7536,9 +7490,8 @@ msgid "There was a problem deleting messages."
 msgstr "Va haver-hi un problema esborrant missatges."
 
 #: bp-themes/bp-default/404.php:7
-#, fuzzy
 msgid "Page not found"
-msgstr "No Trobat"
+msgstr "Página no trobada"
 
 #: bp-themes/bp-default/404.php:9
 msgid ""
@@ -7847,9 +7800,8 @@ msgstr ""
 "que apareix a continuació, no perdràs gens de temps."
 
 #: bp-themes/bp-default/search.php:10
-#, fuzzy
 msgid "Site"
-msgstr "Activitat del lloc"
+msgstr "Lloc"
 
 #: bp-themes/bp-default/search.php:14
 msgid "Search Results"
@@ -7893,20 +7845,19 @@ msgid "New member registered"
 msgstr ""
 
 #: bp-xprofile/bp-xprofile-activity.php:40
-#, fuzzy
 msgid "Updated Profile"
-msgstr "Actualitzar Perfil"
+msgstr "Perfil actualitzat"
 
 #: bp-xprofile/bp-xprofile-activity.php:59
 #: tests/testcases/xprofile/activity.php:285
 msgid "%s changed their profile picture"
-msgstr ""
+msgstr "%s ha canviat el seu avatar"
 
 #: bp-xprofile/bp-xprofile-activity.php:80
 #: tests/testcases/xprofile/activity.php:307
 #: tests/testcases/xprofile/activity.php:333
 msgid "%s became a registered member"
-msgstr ""
+msgstr "%s ara es un usuari registrat"
 
 #: bp-xprofile/bp-xprofile-activity.php:105
 #: tests/testcases/xprofile/activity.php:356
@@ -8060,9 +8011,8 @@ msgid "Submit"
 msgstr "Enviar"
 
 #: bp-xprofile/bp-xprofile-classes.php:904
-#, fuzzy
 msgid "Default Visibility"
-msgstr "Valor per defecte"
+msgstr "Visibilitat per defecte"
 
 #: bp-xprofile/bp-xprofile-classes.php:922
 msgid "Per-Member Visibility"
