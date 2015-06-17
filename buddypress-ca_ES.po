@@ -369,14 +369,14 @@ msgstr "Activitat"
 
 #: bp-activity/bp-activity-admin.php:662
 msgid "Approved"
-msgstr ""
+msgstr "Aprovat"
 
 #: bp-activity/bp-activity-admin.php:663
 #: bp-activity/bp-activity-admin.php:1398
 #: bp-activity/bp-activity-akismet.php:197
 #: bp-activity/bp-activity-akismet.php:226
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: Publish box date format, see http:php.net/date
 #: bp-activity/bp-activity-admin.php:669 bp-members/bp-members-admin.php:650
@@ -458,7 +458,7 @@ msgstr "Ha ocorregut un error durant el procés d'activació"
 #. Translators: This is a bulleted list of item IDs
 #: bp-activity/bp-activity-admin.php:876
 msgid "#%s"
-msgstr ""
+msgstr "#%s"
 
 #: bp-activity/bp-activity-admin.php:885
 #, fuzzy
@@ -542,7 +542,7 @@ msgstr "Marcar com Llegit"
 #: bp-activity/bp-activity-admin.php:1396
 #: bp-core/admin/bp-core-functions.php:845
 msgid "Not Spam"
-msgstr ""
+msgstr "No és Spam"
 
 #: bp-activity/bp-activity-admin.php:1224
 #: bp-activity/bp-activity-admin.php:1401 bp-groups/bp-groups-admin.php:598
@@ -556,7 +556,7 @@ msgstr "Autor"
 
 #: bp-activity/bp-activity-admin.php:1244
 msgid "In Response To"
-msgstr ""
+msgstr "En resposta a"
 
 #: bp-activity/bp-activity-admin.php:1287
 msgid "Show all activity types"
@@ -623,7 +623,7 @@ msgstr ""
 
 #: bp-activity/bp-activity-akismet.php:106
 msgid "History"
-msgstr ""
+msgstr "Històric"
 
 #: bp-activity/bp-activity-akismet.php:373
 msgid "%s reported this activity as spam"
@@ -681,7 +681,7 @@ msgstr "[Llegir més]"
 
 #: bp-activity/bp-activity-filters.php:385
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: bp-activity/bp-activity-filters.php:567
 #, fuzzy
@@ -941,7 +941,7 @@ msgstr "Un usuari et menciona en una actualització utilitzant \"@%s\""
 
 #: bp-activity/bp-activity-screens.php:288
 msgid "A member replies to an update or comment you've posted"
-msgstr ""
+msgstr "Un membre respon a una actualització o comentari que he escrit"
 
 #: bp-activity/bp-activity-template.php:266
 msgctxt "Activity pagination previous text"
@@ -1011,7 +1011,7 @@ msgstr "Esborrar"
 #: bp-xprofile/bp-xprofile-loader.php:185
 #: bp-xprofile/bp-xprofile-loader.php:265
 msgid "View"
-msgstr ""
+msgstr "Veure"
 
 #: bp-activity/bp-activity-template.php:2626
 msgid "Clear Filter"
@@ -1385,20 +1385,20 @@ msgstr ""
 msgctxt "plugins"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tot <span class=\"count\">(%s)</span>"
+msgstr[1] "Tot <span class=\"count\">(%s)</span>"
 
 #: bp-core/admin/bp-core-components.php:145
 msgid "Active <span class=\"count\">(%s)</span>"
 msgid_plural "Active <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Actiu <span class=\"count\">(%s)</span>"
+msgstr[1] "Actiu <span class=\"count\">(%s)</span>"
 
 #: bp-core/admin/bp-core-components.php:146
 msgid "Inactive <span class=\"count\">(%s)</span>"
 msgid_plural "Inactive <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Inactiu <span class=\"count\">(%s)</span>"
+msgstr[1] "Inactiu <span class=\"count\">(%s)</span>"
 
 #: bp-core/admin/bp-core-components.php:147
 msgid "Must-Use <span class=\"count\">(%s)</span>"
@@ -1409,8 +1409,8 @@ msgstr[1] ""
 #: bp-core/admin/bp-core-components.php:148
 msgid "Retired <span class=\"count\">(%s)</span>"
 msgid_plural "Retired <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Retirat <span class=\"count\">(%s)</span>"
+msgstr[1] "Retirat <span class=\"count\">(%s)</span>"
 
 #: bp-core/admin/bp-core-components.php:155
 #: bp-core/admin/bp-core-components.php:163
@@ -1753,7 +1753,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-settings.php:240 bp-core/admin/bp-core-tools.php:34
 msgid "Repair"
-msgstr ""
+msgstr "Reparar"
 
 #: bp-core/admin/bp-core-settings.php:241
 #, fuzzy
@@ -1775,7 +1775,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-slugs.php:100 bp-core/admin/bp-core-slugs.php:163
 msgid "- None -"
-msgstr ""
+msgstr "- Cap -"
 
 #: bp-core/admin/bp-core-slugs.php:104 bp-core/admin/bp-core-slugs.php:167
 #, fuzzy
@@ -1829,7 +1829,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-tools.php:49
 msgid "Repair Items"
-msgstr ""
+msgstr "Reparar elements"
 
 #: bp-core/admin/bp-core-tools.php:105
 #, fuzzy
@@ -1897,7 +1897,7 @@ msgstr "Buddypress"
 
 #: bp-core/bp-core-admin.php:226
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #: bp-core/bp-core-admin.php:235
 #, fuzzy
@@ -2290,9 +2290,8 @@ msgstr "Error en la pujada! L'error va ser: %s"
 #: bp-core/bp-core-template.php:160 bp-core/bp-core-template.php:176
 #: bp-groups/bp-groups-template.php:3362 bp-groups/bp-groups-template.php:3363
 #: bp-groups/bp-groups-template.php:3364
-#, fuzzy
 msgid "Avatar of %s"
-msgstr "Avatar"
+msgstr "Avatar de %s"
 
 #: bp-core/bp-core-buddybar.php:356
 #, fuzzy
@@ -2349,11 +2348,10 @@ msgid "You must log in to access the page you requested."
 msgstr "Has d'identificar-te per a accedir al teu compte."
 
 #: bp-core/bp-core-classes.php:830 bp-groups/bp-groups-template.php:3372
-#, fuzzy
 msgid "%d group"
 msgid_plural "%d groups"
-msgstr[0] "grup"
-msgstr[1] "grup"
+msgstr[0] "%d grup"
+msgstr[1] "%d grups"
 
 #: bp-core/bp-core-dependency.php:81
 msgid "The current user is being initialized without using $wp->init()."
@@ -2398,9 +2396,8 @@ msgid ""
 msgstr ""
 
 #: bp-core/bp-core-filters.php:360 bp-members/bp-members-functions.php:1706
-#, fuzzy
 msgid "Activate Your Account"
-msgstr "Activar el teu compte"
+msgstr "Activa el teu compte"
 
 #: bp-core/bp-core-filters.php:427
 #, fuzzy
@@ -2423,16 +2420,14 @@ msgid "%1$s | %2$s | %3$s"
 msgstr "%1$s <em>en %2$s per %3$s</em>"
 
 #: bp-core/bp-core-filters.php:447
-#, fuzzy
 msgctxt "component directory title"
 msgid "Directory"
-msgstr "Directori de Blogs"
+msgstr "Directori"
 
 #: bp-core/bp-core-filters.php:454 bp-members/bp-members-screens.php:519
 #: bp-themes/bp-default/registration/register.php:23
-#, fuzzy
 msgid "Create an Account"
-msgstr "Crear Compte"
+msgstr "Crea un compte"
 
 #: bp-core/bp-core-filters.php:458 bp-members/bp-members-screens.php:527
 #: bp-themes/bp-default/registration/activate.php:13
@@ -2447,31 +2442,26 @@ msgid "Create a Group"
 msgstr "Crear un Grup"
 
 #: bp-core/bp-core-functions.php:447
-#, fuzzy
 msgctxt "Page title for the Activity directory."
 msgid "Activity"
 msgstr "Activitat"
 
 #: bp-core/bp-core-functions.php:448
-#, fuzzy
 msgctxt "Page title for the Groups directory."
 msgid "Groups"
 msgstr "Grups"
 
 #: bp-core/bp-core-functions.php:449
-#, fuzzy
 msgctxt "Page title for the Sites directory."
 msgid "Sites"
-msgstr "Convidar"
+msgstr "Llocs"
 
 #: bp-core/bp-core-functions.php:450
-#, fuzzy
 msgctxt "Page title for the user account activation screen."
 msgid "Activate"
 msgstr "Activar"
 
 #: bp-core/bp-core-functions.php:451
-#, fuzzy
 msgctxt "Page title for the Members directory."
 msgid "Members"
 msgstr "Usuaris"
@@ -2487,18 +2477,17 @@ msgstr ""
 
 #: bp-core/bp-core-functions.php:778
 msgid "right now"
-msgstr ""
+msgstr "ara mateix"
 
 #: bp-core/bp-core-functions.php:779
 msgid "%s ago"
 msgstr "fa %s"
 
 #: bp-core/bp-core-functions.php:840
-#, fuzzy
 msgid "%s year"
 msgid_plural "%s years"
-msgstr[0] "any"
-msgstr[1] "any"
+msgstr[0] "%s any"
+msgstr[1] "%s anys"
 
 #: bp-core/bp-core-functions.php:843 bp-core/bp-core-functions.php:877
 msgid "%s month"
@@ -2515,8 +2504,8 @@ msgstr[1] "%s setmanes"
 #: bp-core/bp-core-functions.php:849 bp-core/bp-core-functions.php:883
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s dia"
+msgstr[1] "%s dies"
 
 #: bp-core/bp-core-functions.php:852 bp-core/bp-core-functions.php:886
 msgid "%s hour"
@@ -2596,9 +2585,8 @@ msgid " [&hellip;]"
 msgstr ""
 
 #: bp-core/bp-core-template.php:761
-#, fuzzy
 msgid "Community"
-msgstr "Comentaris"
+msgstr "Comunitat"
 
 #: bp-core/bp-core-widgets.php:36
 #, fuzzy
@@ -2834,9 +2822,8 @@ msgid "Replies"
 msgstr ""
 
 #: bp-forums/bp-forums-loader.php:223
-#, fuzzy
 msgid "Favorite Topics"
-msgstr "Enviar Tema"
+msgstr "Temes favorits"
 
 #: bp-forums/bp-forums-screens.php:25 bp-forums/bp-forums-screens.php:182
 msgid "The forums component has not been set up yet."
@@ -2869,9 +2856,8 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/groups/single/forum.php:19
 #: bp-themes/bp-default/forums/index.php:23
 #: bp-themes/bp-default/groups/single/forum.php:19
-#, fuzzy
 msgid "New Topic"
-msgstr "Tema"
+msgstr "Nou Tema"
 
 #: bp-forums/bp-forums-template.php:296 bp-forums/bp-forums-template.php:568
 msgctxt "Forum topic pagination previous text"
@@ -2906,9 +2892,8 @@ msgid "%d posts"
 msgstr "%d entrades"
 
 #: bp-forums/bp-forums-template.php:1291
-#, fuzzy
 msgid "Edit Topic"
-msgstr "Enviar Tema"
+msgstr "Editar Tema"
 
 #: bp-forums/bp-forums-template.php:1295
 #, fuzzy
@@ -2929,9 +2914,8 @@ msgid "Close Topic"
 msgstr "Tancar Tema"
 
 #: bp-forums/bp-forums-template.php:1304
-#, fuzzy
 msgid "Delete Topic"
-msgstr "Esborrar Grup"
+msgstr "Esborrar Tema"
 
 #: bp-forums/bp-forums-template.php:1525
 #, fuzzy
@@ -2971,13 +2955,12 @@ msgid "Install bbPress"
 msgstr ""
 
 #: bp-forums/deprecated/1.6.php:47
-#, fuzzy
 msgid "Settings Saved."
-msgstr "Configuració"
+msgstr "Configuració guardada."
 
 #: bp-forums/deprecated/1.6.php:68
 msgid "(Installed)"
-msgstr ""
+msgstr "(Instal·lat)"
 
 #: bp-forums/deprecated/1.6.php:68 bp-forums/deprecated/1.6.php:210
 #, fuzzy
@@ -3053,7 +3036,7 @@ msgstr ""
 
 #: bp-forums/deprecated/1.6.php:97 bp-forums/deprecated/1.6.php:240
 msgid "Revisions"
-msgstr ""
+msgstr "Revisions"
 
 #: bp-forums/deprecated/1.6.php:98 bp-forums/deprecated/1.6.php:241
 #, fuzzy
@@ -3061,13 +3044,12 @@ msgid "Spam management"
 msgstr "Administrar Comentaris"
 
 #: bp-forums/deprecated/1.6.php:99 bp-forums/deprecated/1.6.php:242
-#, fuzzy
 msgid "Subscriptions"
-msgstr "Descripció"
+msgstr "Subscripcions"
 
 #: bp-forums/deprecated/1.6.php:100 bp-forums/deprecated/1.6.php:243
 msgid "And more!"
-msgstr ""
+msgstr "I més!"
 
 #: bp-forums/deprecated/1.6.php:103 bp-forums/deprecated/1.6.php:246
 msgid ""
@@ -3154,9 +3136,8 @@ msgid "Friendship could not be requested."
 msgstr "L'amistat no pot ser processada"
 
 #: bp-friends/bp-friends-actions.php:40
-#, fuzzy
 msgid "Friendship requested"
-msgstr "Petició d'Amistat"
+msgstr "Petició d'amistat"
 
 #: bp-friends/bp-friends-actions.php:44
 #, fuzzy
@@ -3175,9 +3156,8 @@ msgid "Friendship could not be canceled."
 msgstr "L'Amistat no pot ser cancel·lada"
 
 #: bp-friends/bp-friends-actions.php:78
-#, fuzzy
 msgid "Friendship canceled"
-msgstr "Amistat acceptada"
+msgstr "Amistat cancel·lada"
 
 #: bp-friends/bp-friends-actions.php:82
 #, fuzzy
@@ -3190,19 +3170,16 @@ msgid "You have a pending friendship request with this user"
 msgstr "Tens %d peticions d'amistat pendents"
 
 #: bp-friends/bp-friends-activity.php:98
-#, fuzzy
 msgid "Friendships accepted"
-msgstr "Amistat acceptada"
+msgstr "Amistats acceptades"
 
 #: bp-friends/bp-friends-activity.php:105
-#, fuzzy
 msgid "New friendships"
-msgstr "amics"
+msgstr "Noves amistats"
 
 #: bp-friends/bp-friends-activity.php:110
-#, fuzzy
 msgid "New friendship created"
-msgstr "Amistat acceptada"
+msgstr "Nova amistat creada"
 
 #: bp-friends/bp-friends-activity.php:128
 #: bp-friends/bp-friends-activity.php:154
@@ -3338,7 +3315,7 @@ msgstr "Un usuari ha acceptat la teva amistat"
 #: bp-friends/bp-friends-template.php:66
 #: bp-xprofile/bp-xprofile-loader.php:124
 msgid "My Friends"
-msgstr "Els meus Amics"
+msgstr "Els meus amics"
 
 #: bp-friends/bp-friends-template.php:66
 msgid "%s's Friends"
@@ -3365,21 +3342,18 @@ msgid "Filter Friends"
 msgstr "Filtrar Amics"
 
 #: bp-friends/bp-friends-template.php:221
-#, fuzzy
 msgid "%d friend"
-msgstr "amic"
+msgstr "%d amic"
 
 #: bp-friends/bp-friends-template.php:223
-#, fuzzy
 msgid "%d friends"
-msgstr "amics"
+msgstr "%d amics"
 
 #: bp-friends/bp-friends-template.php:318
 #: bp-templates/bp-legacy/buddypress-functions.php:1092
 #: bp-themes/bp-default/_inc/ajax.php:658
-#, fuzzy
 msgid "Cancel Friendship Request"
-msgstr "Petició d'Amistat"
+msgstr "Cancel·lar sol·licitud d'amistat"
 
 #: bp-friends/bp-friends-template.php:319
 #, fuzzy
@@ -3406,11 +3380,10 @@ msgid "Add Friend"
 msgstr "Afegir Amic"
 
 #: bp-friends/bp-friends-template.php:588
-#, fuzzy
 msgid "%s friend"
 msgid_plural "%s friends"
-msgstr[0] "amic"
-msgstr[1] "amic"
+msgstr[0] "%s  amic"
+msgstr[1] "%s  amics"
 
 #: bp-friends/bp-friends-widgets.php:41
 msgid ""
@@ -3562,18 +3535,15 @@ msgid ""
 msgstr ""
 
 #: bp-groups/bp-groups-admin.php:120
-#, fuzzy
 msgid "Support Forums"
-msgstr "Fòrums de Grup"
+msgstr "Fòrums de suport"
 
 #: bp-groups/bp-groups-admin.php:124
-#, fuzzy
 msgctxt "group admin edit screen"
 msgid "Save"
 msgstr "Desar"
 
 #: bp-groups/bp-groups-admin.php:125
-#, fuzzy
 msgctxt "group admin edit screen"
 msgid "Settings"
 msgstr "Configuració"
@@ -3591,7 +3561,6 @@ msgid "Manage Members"
 msgstr "Administrar membres"
 
 #: bp-groups/bp-groups-admin.php:141
-#, fuzzy
 msgctxt "Groups per page (screen options)"
 msgid "Groups"
 msgstr "Grups"
@@ -3676,23 +3645,20 @@ msgid "Edit Group"
 msgstr "Editar Grup"
 
 #: bp-groups/bp-groups-admin.php:499 bp-groups/bp-groups-admin.php:641
-#, fuzzy
 msgid "Add New"
-msgstr "Afegir nou Camp"
+msgstr "Afegir Nou"
 
 #: bp-groups/bp-groups-admin.php:518
-#, fuzzy
 msgid "Name and Description"
-msgstr "Descripció del Camp"
+msgstr "Nom i Descripció"
 
 #: bp-groups/bp-groups-admin.php:545
 msgid "No group found with this ID. <a href=\"%s\">Go back and try again</a>."
 msgstr ""
 
 #: bp-groups/bp-groups-admin.php:587
-#, fuzzy
 msgid "Delete Groups"
-msgstr "Esborrar Grup"
+msgstr "Esborrar Grups"
 
 #: bp-groups/bp-groups-admin.php:588
 msgid "You are about to delete the following groups:"
@@ -3788,9 +3754,8 @@ msgid "Moderators"
 msgstr "Moderadors"
 
 #: bp-groups/bp-groups-admin.php:782
-#, fuzzy
 msgid "Banned Users"
-msgstr "Actualitzar Usuari"
+msgstr "Usuaris banejats"
 
 #: bp-groups/bp-groups-admin.php:795
 msgctxt "Group member user_id in group admin"
@@ -3822,9 +3787,8 @@ msgid "Member"
 msgstr "Usuari"
 
 #: bp-groups/bp-groups-admin.php:822
-#, fuzzy
 msgid "Banned"
-msgstr "(baneado)"
+msgstr "Banejat"
 
 #: bp-groups/bp-groups-admin.php:823
 #, fuzzy
@@ -3947,14 +3911,12 @@ msgid "Edit Details"
 msgstr "Editar Detalls"
 
 #: bp-groups/bp-groups-adminbar.php:55
-#, fuzzy
 msgid "Edit Settings"
-msgstr "Configuració"
+msgstr "Actualitzar Configuració"
 
 #: bp-groups/bp-groups-adminbar.php:64 bp-members/bp-members-adminbar.php:109
-#, fuzzy
 msgid "Edit Avatar"
-msgstr "Avatar"
+msgstr "Actualitzar Avatar"
 
 #: bp-groups/bp-groups-adminbar.php:74 bp-groups/bp-groups-buddybar.php:46
 #, fuzzy
@@ -4037,9 +3999,8 @@ msgid "You are not an admin of this group."
 msgstr "Has estat promocionat a administrador del grup %s"
 
 #: bp-groups/bp-groups-loader.php:316 bp-groups/bp-groups-template.php:1505
-#, fuzzy
 msgid "Details"
-msgstr "Detalls del Blog"
+msgstr "Detalls"
 
 #: bp-groups/bp-groups-loader.php:328 bp-groups/bp-groups-template.php:1516
 msgid "Avatar"
@@ -4060,9 +4021,8 @@ msgid "Memberships"
 msgstr "Usuaris"
 
 #: bp-groups/bp-groups-loader.php:403
-#, fuzzy
 msgid "Invitations"
-msgstr "Convidar"
+msgstr "Invitacions"
 
 #: bp-groups/bp-groups-loader.php:434
 #, fuzzy
@@ -4914,9 +4874,8 @@ msgstr "E-mail"
 
 #: bp-members/admin/bp-members-classes.php:130
 #: bp-members/admin/bp-members-classes.php:448
-#, fuzzy
 msgid "Registered"
-msgstr "registrat fa %s"
+msgstr "Registrat"
 
 #: bp-members/admin/bp-members-classes.php:131
 #: bp-members/admin/bp-members-classes.php:449
@@ -5608,7 +5567,7 @@ msgstr "Cercar Missatges..."
 
 #: bp-messages/bp-messages-loader.php:109
 msgid "Messages <span class=\"%s\">%s</span>"
-msgstr ""
+msgstr "Missatges <span class=\"%s\">%s</span>"
 
 #: bp-messages/bp-messages-loader.php:111
 #: bp-messages/bp-messages-loader.php:202
@@ -5638,11 +5597,11 @@ msgstr "Notificacions"
 
 #: bp-messages/bp-messages-loader.php:199
 msgid "Messages <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "Missatges <span class=\"count\">%s</span>"
 
 #: bp-messages/bp-messages-loader.php:200
 msgid "Inbox <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "Safata d'entrada <span class=\"count\">%s</span>"
 
 #: bp-messages/bp-messages-loader.php:243
 #, fuzzy
@@ -5714,7 +5673,7 @@ msgstr "El missatge ha estat enviat!"
 
 #: bp-messages/bp-messages-screens.php:104
 msgid "Messages <span>%s</span>"
-msgstr ""
+msgstr "Missatges <span>%s</span>"
 
 #: bp-messages/bp-messages-screens.php:125
 msgid "There was a problem deactivating that notice."
@@ -5811,7 +5770,7 @@ msgstr "tancar"
 
 #: bp-messages/bp-messages-template.php:754
 msgid "Send a private message to this user."
-msgstr ""
+msgstr "Envia un missatge privat a aquest usuari."
 
 #: bp-messages/bp-messages-template.php:755
 msgid "Private Message"
@@ -5877,15 +5836,15 @@ msgstr "Cerca Notificacions..."
 
 #: bp-notifications/bp-notifications-loader.php:111
 msgid "Notifications <span class=\"%s\">%s</span>"
-msgstr ""
+msgstr "Notificacions <span class=\"%s\">%s</span>"
 
 #: bp-notifications/bp-notifications-loader.php:185
 msgid "Notifications <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "Notificacions <span class=\"count\">%s</span>"
 
 #: bp-notifications/bp-notifications-loader.php:186
 msgid "Unread <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "No llegit <span class=\"count\">%s</span>"
 
 #: bp-notifications/bp-notifications-template.php:327
 msgctxt "Notifications pagination previous text"
@@ -5987,7 +5946,7 @@ msgstr "Capacitats"
 #: bp-templates/bp-legacy/buddypress/activity/activity-loop.php:28
 #: bp-themes/bp-default/activity/activity-loop.php:41
 msgid "Load More"
-msgstr ""
+msgstr "Carrega més"
 
 #: bp-templates/bp-legacy/buddypress/activity/activity-loop.php:42
 #: bp-themes/bp-default/activity/activity-loop.php:55
@@ -6005,7 +5964,7 @@ msgstr ""
 
 #: bp-templates/bp-legacy/buddypress/activity/entry.php:50
 msgid "View Conversation"
-msgstr ""
+msgstr "Veure conversa"
 
 #: bp-templates/bp-legacy/buddypress/activity/entry.php:58
 #: bp-themes/bp-default/activity/entry.php:60
@@ -6028,7 +5987,7 @@ msgstr "Marcar com no Llegit"
 #: bp-themes/bp-default/activity/entry.php:68
 #: bp-themes/bp-default/functions.php:167
 msgid "Favorite"
-msgstr ""
+msgstr "Favorit"
 
 #: bp-templates/bp-legacy/buddypress/activity/entry.php:70
 #: bp-templates/bp-legacy/buddypress-functions.php:243
@@ -6129,7 +6088,7 @@ msgstr ""
 #: bp-themes/bp-default/groups/single/activity.php:8
 #: bp-themes/bp-default/members/single/activity.php:18
 msgid "Show:"
-msgstr ""
+msgstr "Mostrar:"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:78
 #: bp-templates/bp-legacy/buddypress/groups/single/activity.php:10
@@ -6562,9 +6521,8 @@ msgstr "Sense Avatar de Grup"
 #: bp-themes/bp-default/groups/create.php:166
 #: bp-themes/bp-default/groups/single/admin.php:151
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:33
-#, fuzzy
 msgid "Avatar to crop"
-msgstr "Avatar"
+msgstr "Avatar a retallar"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:162
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:154
@@ -6995,10 +6953,9 @@ msgstr ""
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:79
 #: bp-themes/bp-default/registration/register.php:163
-#, fuzzy
 msgctxt "Change profile field visibility level"
 msgid "Change"
-msgstr "Desar Canvis"
+msgstr "Canviar"
 
 #: bp-templates/bp-legacy/buddypress/members/register.php:84
 #: bp-templates/bp-legacy/buddypress/members/single/profile/edit.php:38
@@ -7353,9 +7310,8 @@ msgstr "Estàs segur que vols deixar aquest grup?"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:241
 #: bp-themes/bp-default/functions.php:158
-#, fuzzy
 msgid "My Favorites"
-msgstr "Els meus Amics"
+msgstr "Els meus favorits"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:242
 #: bp-themes/bp-default/functions.php:160
@@ -7645,9 +7601,8 @@ msgid "Forums Directory"
 msgstr "Directori de Grups"
 
 #: bp-themes/bp-default/functions.php:85
-#, fuzzy
 msgid "Primary Navigation"
-msgstr "Opcions de Privadesa"
+msgstr "Navegació principal"
 
 #: bp-themes/bp-default/functions.php:391
 msgid "The sidebar widget area"
@@ -7776,9 +7731,8 @@ msgid "General Settings"
 msgstr "Configuració General"
 
 #: bp-themes/bp-default/members/single/settings/notifications.php:49
-#, fuzzy
 msgid "Email Notification"
-msgstr "Notificació Emails"
+msgstr "Notificacions per email"
 
 #: bp-themes/bp-default/onecolumn-page.php:29 bp-themes/bp-default/page.php:18
 #, fuzzy
@@ -7786,9 +7740,8 @@ msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
 msgstr "<p class=\"serif\">Llegix la resta de la pàgina &raquo;</p>"
 
 #: bp-themes/bp-default/onecolumn-page.php:32 bp-themes/bp-default/page.php:21
-#, fuzzy
 msgid "Edit this page."
-msgstr "Editar Entrada."
+msgstr "Actualitza aquesta pàgina."
 
 #: bp-themes/bp-default/registration/register.php:27
 #, fuzzy
@@ -8197,11 +8150,11 @@ msgstr "afegir una altra Opció"
 
 #: bp-xprofile/bp-xprofile-loader.php:109
 msgid "Everyone"
-msgstr ""
+msgstr "Tothom"
 
 #: bp-xprofile/bp-xprofile-loader.php:113
 msgid "Only Me"
-msgstr ""
+msgstr "Només jo"
 
 #: bp-xprofile/bp-xprofile-loader.php:117
 msgid "All Members"
