@@ -2362,7 +2362,6 @@ msgid "[User Set]"
 msgstr ""
 
 #: bp-core/bp-core-filters.php:320
-#, fuzzy
 msgid ""
 "Thanks for registering! To complete the activation of your account and blog, "
 "please click the following link:\n"
@@ -2375,12 +2374,14 @@ msgid ""
 "\n"
 "%2$s"
 msgstr ""
-"Per a activa el teu Blog, per favor,clic en el següent enllaç:\n"
+"Gràcies per registrar-te! Per activar el teu compte i el te blog, fes clic "
+"en el següent enllaç:\n"
 "\n"
 "%s\n"
 "\n"
-"Després d'activar-ho, rebràs un altre email* amb el teu login.\n"
+"Després d'activar-la, podrà visualitzar el teu blog aquí.\n"
 "\n"
+"%2$s"
 
 #: bp-core/bp-core-filters.php:321
 msgid "Activate %s"
@@ -3185,9 +3186,8 @@ msgstr "Nova amistat creada"
 #: bp-friends/bp-friends-activity.php:154
 #: tests/testcases/friends/activity.php:23
 #: tests/testcases/friends/activity.php:45
-#, fuzzy
 msgid "%1$s and %2$s are now friends"
-msgstr "%s i %s són ara amics"
+msgstr "%s i %s ja son amics"
 
 #: bp-friends/bp-friends-loader.php:92
 msgid "Search Friends..."
@@ -3195,7 +3195,7 @@ msgstr "Cercar amics..."
 
 #: bp-friends/bp-friends-loader.php:119
 msgid "Friends <span class=\"%s\">%s</span>"
-msgstr ""
+msgstr "Amics <span class=\"%s\">%s</span>"
 
 #: bp-friends/bp-friends-loader.php:140 bp-friends/bp-friends-loader.php:204
 #: bp-friends/bp-friends-loader.php:229
@@ -3212,7 +3212,7 @@ msgstr "Peticions"
 
 #: bp-friends/bp-friends-loader.php:185
 msgid "Friends <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "Amics <span class=\"count\">%s</span>"
 
 #: bp-friends/bp-friends-loader.php:186
 msgid "Pending Requests <span class=\"count\">%s</span>"
@@ -3228,7 +3228,6 @@ msgid "New friendship request from %s"
 msgstr "Nova petició d'amistat de %s"
 
 #: bp-friends/bp-friends-notifications.php:44
-#, fuzzy
 msgid ""
 "%1$s wants to add you as a friend.\n"
 "\n"
@@ -3240,9 +3239,9 @@ msgid ""
 msgstr ""
 "%s vol afegir-te com amic.\n"
 "\n"
-"per a veure totes les amistats pendents: %s\n"
+"per a veure totes les sol.licituds d'amistat pendents: %s\n"
 "\n"
-"per a veure la fulla de %s: %s\n"
+"per a veure el perfil de %s: %s\n"
 "\n"
 "---------------------\n"
 
@@ -3252,7 +3251,6 @@ msgid "%s accepted your friendship request"
 msgstr "%s ha acceptat la teva petició d'amistat"
 
 #: bp-friends/bp-friends-notifications.php:95
-#, fuzzy
 msgid ""
 "%1$s accepted your friend request.\n"
 "\n"
@@ -3260,7 +3258,7 @@ msgid ""
 "\n"
 "---------------------\n"
 msgstr ""
-"%s a acceptat la teva amistat.\n"
+"%s ha acceptat la teva sol.licitud d'amistat.\n"
 "\n"
 "Per a veure el perfil de %s has d'anar a: %s\n"
 "\n"
@@ -3432,9 +3430,8 @@ msgid "Only the group creator may continue editing this group."
 msgstr "Com administrador del grup, no pots abandonar-lo."
 
 #: bp-groups/bp-groups-actions.php:82
-#, fuzzy
 msgid "Please fill in all of the required fields"
-msgstr "Per favor, assegura't d'emplenar tots els camps requerits."
+msgstr "Si us plau, assegura't d'emplenar tots els camps requerits."
 
 #: bp-groups/bp-groups-actions.php:89 bp-groups/bp-groups-actions.php:113
 #, fuzzy
@@ -3760,7 +3757,7 @@ msgstr "Usuaris banejats"
 #: bp-groups/bp-groups-admin.php:795
 msgctxt "Group member user_id in group admin"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: bp-groups/bp-groups-admin.php:796
 #, fuzzy
@@ -4056,9 +4053,8 @@ msgid "Admin"
 msgstr "Admin"
 
 #: bp-groups/bp-groups-loader.php:541
-#, fuzzy
 msgid "No Pending Invites"
-msgstr "Enviar Invitació"
+msgstr "No tens invitacions pendents"
 
 #: bp-groups/bp-groups-loader.php:544
 msgid "Groups <span class=\"count\">%s</span>"
@@ -5242,9 +5238,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: bp-members/bp-members-admin.php:1407
-#, fuzzy
 msgid "Last notified: %s"
-msgstr "Últim Post: %s"
+msgstr "Última modificació: %s"
 
 #: bp-members/bp-members-admin.php:1410
 msgid "(less than 24 hours ago)"
@@ -5286,14 +5281,12 @@ msgid "Blog Authors"
 msgstr "Autors del Blog"
 
 #: bp-members/bp-members-buddybar.php:99
-#, fuzzy
 msgid "Edit %s's Profile"
-msgstr "Editar perfil"
+msgstr "Actualitza el perfil de %s"
 
 #: bp-members/bp-members-buddybar.php:103
-#, fuzzy
 msgid "Edit %s's Avatar"
-msgstr "%s Avatar"
+msgstr "Actualitza l'avatar de %s"
 
 #: bp-members/bp-members-buddybar.php:107
 #, fuzzy
@@ -5330,7 +5323,7 @@ msgstr ""
 
 #: bp-members/bp-members-functions.php:1332
 msgid "Please check your email address."
-msgstr ""
+msgstr "Si us plau, revisa el teu email  "
 
 #: bp-members/bp-members-functions.php:1335
 #: bp-members/bp-members-functions.php:1338
@@ -5340,16 +5333,15 @@ msgstr "Ho sentim, la pàgina no es va trobar"
 
 #: bp-members/bp-members-functions.php:1341
 msgid "Sorry, that email address is already used!"
-msgstr ""
+msgstr "Ho sentim però aquesta adreça d'email està en ús"
 
 #: bp-members/bp-members-functions.php:1372
-#, fuzzy
 msgid "Please enter a username"
-msgstr "Usuari bbPress"
+msgstr "Si us plau, introdueix un nom d'usuari"
 
 #: bp-members/bp-members-functions.php:1378
 msgid "That username is not allowed"
-msgstr ""
+msgstr "Aquest nom d'usuari no està permès"
 
 #: bp-members/bp-members-functions.php:1383
 msgid "Usernames can contain only letters, numbers, ., -, and @"
@@ -5372,9 +5364,8 @@ msgid "Sorry, that username already exists!"
 msgstr ""
 
 #: bp-members/bp-members-functions.php:1531
-#, fuzzy
 msgid "Invalid activation key."
-msgstr "Clau d'Activació:"
+msgstr "Clau d'activació incorrecte."
 
 #: bp-members/bp-members-functions.php:1538
 msgid "The user is already active."
@@ -5385,9 +5376,8 @@ msgid "The site is already active."
 msgstr ""
 
 #: bp-members/bp-members-functions.php:1558
-#, fuzzy
 msgid "Invalid activation key"
-msgstr "Clau d'Activació:"
+msgstr "Clau d'activació incorrecte"
 
 #: bp-members/bp-members-functions.php:1573
 msgid "Could not create user"
@@ -5432,9 +5422,8 @@ msgid "You"
 msgstr "Tu"
 
 #: bp-members/bp-members-screens.php:92
-#, fuzzy
 msgid "Please make sure you enter your password twice"
-msgstr "Per favor, assegura't de donar un nom al grup"
+msgstr "Si us plau, assegura't d'introduir la contrasenya dues vegades"
 
 #: bp-members/bp-members-screens.php:96
 #, fuzzy
@@ -5443,7 +5432,7 @@ msgstr "La teva clau no concorda"
 
 #: bp-members/bp-members-screens.php:119
 msgid "This is a required field"
-msgstr ""
+msgstr "Aquest camp és obligatori"
 
 #: bp-members/bp-members-screens.php:261
 msgid "Your account is now active!"
@@ -5451,9 +5440,8 @@ msgstr "El teu compte està activada"
 
 #: bp-members/bp-members-screens.php:522
 #: bp-themes/bp-default/registration/register.php:259
-#, fuzzy
 msgid "Check Your Email To Activate Your Account!"
-msgstr "Activar el teu compte"
+msgstr "Mira el teu email per activar el teu compte"
 
 #: bp-members/bp-members-screens.php:530
 #: bp-themes/bp-default/registration/activate.php:11
@@ -5653,9 +5641,8 @@ msgstr "Tens %d nous missatges"
 
 #: bp-messages/bp-messages-screens.php:56
 #: bp-messages/bp-messages-screens.php:78
-#, fuzzy
 msgid "There was an error sending that message, please try again"
-msgstr "Va haver un error enviat la resposta, per favor, prova de nou."
+msgstr "S'ha produït un error enviant el missatge, si us plau, prova de nou"
 
 #: bp-messages/bp-messages-screens.php:61
 #, fuzzy
@@ -5663,9 +5650,8 @@ msgid "Notice sent successfully!"
 msgstr "Notificació enviada correctament"
 
 #: bp-messages/bp-messages-screens.php:64
-#, fuzzy
 msgid "There was an error sending that notice, please try again"
-msgstr "Va haver un error enviat la resposta, per favor, prova de nou."
+msgstr "S'ha produït un error enviant el missatge, si us plau, prova de nou"
 
 #: bp-messages/bp-messages-screens.php:75
 msgid "Message sent successfully!"
@@ -5872,11 +5858,11 @@ msgstr "Nous primer"
 
 #: bp-notifications/bp-notifications-template.php:944
 msgid "Oldest First"
-msgstr ""
+msgstr "Antics primer"
 
 #: bp-notifications/bp-notifications-template.php:948
 msgid "Go"
-msgstr ""
+msgstr "Anar"
 
 #: bp-settings/bp-settings-actions.php:159
 msgid "That email address is invalid. Check the formatting and try again."
@@ -7163,13 +7149,12 @@ msgstr ""
 
 #: bp-templates/bp-legacy/buddypress/members/single/profile/change-avatar.php:14
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:14
-#, fuzzy
 msgid ""
 "Click below to select a JPG, GIF or PNG format photo from your computer and "
 "then click 'Upload Image' to proceed."
 msgstr ""
-"Faci clic per a seleccionar un arxiu JPG, GIF o PNG del seu equip i, a "
-"continuació, faci clic en 'Upload Foto'."
+"Fes clic per a seleccionar un arxiu JPG, GIF o PNG del teu equip i, a "
+"continuació, fes clic a 'Pujar Foto'."
 
 #: bp-templates/bp-legacy/buddypress/members/single/profile/change-avatar.php:23
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:23
