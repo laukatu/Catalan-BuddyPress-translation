@@ -5202,7 +5202,7 @@ msgstr "Usuaris"
 
 #: bp-members/bp-members-admin.php:1311
 msgid "Search Pending Accounts"
-msgstr ""
+msgstr "Cercar comptes pendents"
 
 #: bp-members/bp-members-admin.php:1357
 #, fuzzy
@@ -5243,11 +5243,11 @@ msgstr "Última modificació: %s"
 
 #: bp-members/bp-members-admin.php:1410
 msgid "(less than 24 hours ago)"
-msgstr ""
+msgstr "(fa menys de 24 hores)"
 
 #: bp-members/bp-members-admin.php:1424
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 #: bp-members/bp-members-adminbar.php:38
 msgid "Edit My Profile"
@@ -5349,7 +5349,7 @@ msgstr ""
 
 #: bp-members/bp-members-functions.php:1388
 msgid "Username must be at least 4 characters"
-msgstr ""
+msgstr "El nom d'usuari ha de tenir almenys 4 caràcters"
 
 #: bp-members/bp-members-functions.php:1393
 msgid "Sorry, usernames may not contain the character \"_\"!"
@@ -5357,11 +5357,11 @@ msgstr ""
 
 #: bp-members/bp-members-functions.php:1400
 msgid "Sorry, usernames must have letters too!"
-msgstr ""
+msgstr "Ho sentim, el nom d'usuari ha de tenir lletres també!"
 
 #: bp-members/bp-members-functions.php:1412
 msgid "Sorry, that username already exists!"
-msgstr ""
+msgstr "Ho sentim, aquest nom d'usuari ja existeix!"
 
 #: bp-members/bp-members-functions.php:1531
 msgid "Invalid activation key."
@@ -5369,11 +5369,11 @@ msgstr "Clau d'activació incorrecte."
 
 #: bp-members/bp-members-functions.php:1538
 msgid "The user is already active."
-msgstr ""
+msgstr "L'usuari ja està actiu."
 
 #: bp-members/bp-members-functions.php:1540
 msgid "The site is already active."
-msgstr ""
+msgstr "El lloc ja està actiu."
 
 #: bp-members/bp-members-functions.php:1558
 msgid "Invalid activation key"
@@ -5381,7 +5381,7 @@ msgstr "Clau d'activació incorrecte"
 
 #: bp-members/bp-members-functions.php:1573
 msgid "Could not create user"
-msgstr ""
+msgstr "No s'ha pogut crear l'usuari"
 
 #: bp-members/bp-members-functions.php:1587
 msgid "That username is already activated."
@@ -5878,11 +5878,11 @@ msgstr ""
 
 #: bp-settings/bp-settings-actions.php:168
 msgid "Email address cannot be empty."
-msgstr ""
+msgstr "El camp email no pot estar buit."
 
 #: bp-settings/bp-settings-actions.php:178
 msgid "Your current password is invalid."
-msgstr ""
+msgstr "La teva contrasenya actual no és vàlida."
 
 #: bp-settings/bp-settings-actions.php:181
 #, fuzzy
@@ -5900,7 +5900,7 @@ msgstr "El registre d'Usuaris, està actualment desactivat"
 
 #: bp-settings/bp-settings-actions.php:199
 msgid "No changes were made to your account."
-msgstr ""
+msgstr "No s’han fet canvis en el teu compte."
 
 #: bp-settings/bp-settings-actions.php:201
 #, fuzzy
@@ -5991,7 +5991,7 @@ msgstr "esborrar invitació"
 #: bp-themes/bp-default/activity/entry.php:104
 #, fuzzy
 msgid "Post"
-msgstr "Posts"
+msgstr "Publ"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:19
 #: bp-themes/bp-default/activity/index.php:39
@@ -6065,7 +6065,7 @@ msgstr "Feeds RSS"
 #: bp-themes/bp-default/activity/index.php:91
 #: bp-themes/bp-default/groups/single/activity.php:3
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:76
 #: bp-templates/bp-legacy/buddypress/groups/single/activity.php:8
@@ -6083,7 +6083,7 @@ msgstr "Mostrar:"
 #: bp-themes/bp-default/groups/single/activity.php:10
 #: bp-themes/bp-default/members/single/activity.php:20
 msgid "Everything"
-msgstr ""
+msgstr "Tot"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:79
 #: bp-templates/bp-legacy/buddypress/groups/single/activity.php:11
@@ -6142,9 +6142,8 @@ msgstr "Usuaris del Grup"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:108
 #: bp-themes/bp-default/activity/index.php:128
-#, fuzzy
 msgid "New Members"
-msgstr "Usuaris"
+msgstr "Nous membres"
 
 #: bp-templates/bp-legacy/buddypress/activity/post-form.php:23
 #: bp-themes/bp-default/activity/post-form.php:23
@@ -6296,7 +6295,7 @@ msgstr "Contingut:"
 #: bp-themes/bp-default/groups/single/forum/edit.php:53
 #: bp-themes/bp-default/groups/single/forum.php:81
 msgid "Tags (comma separated):"
-msgstr ""
+msgstr "Etiquetes (separades per coma):"
 
 #: bp-templates/bp-legacy/buddypress/forums/index.php:95
 #: bp-themes/bp-default/forums/index.php:113
@@ -6488,7 +6487,7 @@ msgstr ""
 #: bp-themes/bp-default/groups/single/admin.php:131
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:18
 msgid "Upload Image"
-msgstr ""
+msgstr "Pujar imatge"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:150
 #: bp-themes/bp-default/groups/create.php:157
@@ -6497,9 +6496,8 @@ msgstr ""
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:157
 #: bp-themes/bp-default/groups/create.php:164
-#, fuzzy
 msgid "Crop Group Avatar"
-msgstr "Sense Avatar de Grup"
+msgstr "Retallar avatar de grup"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:159
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:151
@@ -6526,7 +6524,7 @@ msgstr "Previsualització avatar"
 #: bp-themes/bp-default/groups/single/admin.php:157
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:39
 msgid "Crop Image"
-msgstr ""
+msgstr "Retallar imatge"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:204
 #: bp-templates/bp-legacy/buddypress/groups/single/invites-loop.php:79
@@ -6564,7 +6562,7 @@ msgstr "&laquo; Entrada Anterior"
 #: bp-templates/bp-legacy/buddypress/groups/create.php:268
 #: bp-themes/bp-default/groups/create.php:275
 msgid "Next Step"
-msgstr ""
+msgstr "Següent pas"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:275
 #: bp-themes/bp-default/groups/create.php:282
@@ -6658,7 +6656,6 @@ msgstr "fer fora i banear"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:271
 #: bp-themes/bp-default/groups/single/admin.php:271
-#, fuzzy
 msgid "Promote to Mod"
 msgstr "Promocionar a Moderador"
 
@@ -7489,7 +7486,7 @@ msgstr "Llegeix la resta de l'entrada &raquo;"
 #: bp-themes/bp-default/onecolumn-page.php:31 bp-themes/bp-default/page.php:20
 #: bp-themes/bp-default/single.php:30
 msgid "Pages: "
-msgstr ""
+msgstr "Pàgines:"
 
 #: bp-themes/bp-default/archive.php:37 bp-themes/bp-default/index.php:41
 #: bp-themes/bp-default/search.php:38 bp-themes/bp-default/single.php:33
@@ -7551,8 +7548,8 @@ msgstr "Entra la teva clau per a veure els comentaris"
 #: bp-themes/bp-default/comments.php:31
 msgid "1 response to %2$s"
 msgid_plural "%1$s responses to %2$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 resposta a %2$s"
+msgstr[1] "%1$s respostes a %2$s"
 
 #: bp-themes/bp-default/comments.php:55
 msgid ""
